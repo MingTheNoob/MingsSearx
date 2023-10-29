@@ -1,4 +1,4 @@
-# searx-switcher
-Switch the default search engine to a Searx instance
+# MingsSearx
+Use this extension to change your default search engine to my Searx instance
 
-With this extension you can switch the default search engine to a Searx instance of your choice.
+The Searx instance is indeed free and opensource: [https://github.com/MingTheNoob/searx.mingsutilities.com](https://github.com/MingTheNoob/searx.mingsutilities.com)
